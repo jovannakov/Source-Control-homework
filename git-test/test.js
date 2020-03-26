@@ -1,4 +1,4 @@
 
-function Method(){
-    return 5 + 6;
+function Method(x,y){
+    return x + y;
 }
