@@ -1,4 +1,5 @@
 
 function Method(x,y){
-    return x + y;
+    let firstBranchVariable = 2;
+    return (x + y) / 2;
 }
