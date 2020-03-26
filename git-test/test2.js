@@ -4,4 +4,5 @@ function TestMethod2(){
 }
 
 function TestMethod3(){
+    return "Method 3";
 }
