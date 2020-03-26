@@ -5,3 +5,7 @@ function Method(x,y){
     }
     return  x + y;
 }
+
+function NewMethod(){
+    return "New Method";
+}
